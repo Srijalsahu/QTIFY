@@ -1,8 +1,9 @@
 .hero {
-    background-color: var(--color-black);
+    /*background-color: var(--color-black);*/
     height: 270px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
+    background-color: rgb(223, 248, 248);
 }
